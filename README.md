@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learning Analytics Platform
 
 A cloud-based EdTech analytics solution built at Hackwhat to track student performance, automate data processing, and visualize real-time learning insights.
@@ -39,3 +40,6 @@ Configure S3 bucket trigger for `sample_quiz_data.csv`.
 ## Author
 **Saichand Mekala**
 _Data Analyst / Engineer_
+=======
+# learning-analytics-platform
+>>>>>>> 0a4586d4cbc2ca77e5dcfc4bc4a846ae9f454fb2
