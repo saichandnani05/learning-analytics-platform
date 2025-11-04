@@ -1,0 +1,13 @@
+[User Interface] React.js Dashboard
+   |
+   v
+[Backend API] Flask REST API (Python)
+   |
+   v
+[Database Layer] MongoDB Atlas (Cloud)
+   |
+   v
+[Data Processing] AWS Lambda (ETL) + Pandas
+   |
+   v
+[Storage] AWS S3 (Raw Data)

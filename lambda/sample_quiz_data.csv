@@ -1,0 +1,4 @@
+student_id,course_id,score,date_submitted
+S001,C001,85,2025-01-12
+S002,C002,90,2025-01-15
+S001,C002,78,2025-01-17
